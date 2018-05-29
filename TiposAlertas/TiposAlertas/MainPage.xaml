@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:TiposAlertas"
+             x:Class="TiposAlertas.MainPage">
+    <ContentPage.Content>
+        <StackLayout Orientation="Vertical">
+            <Button x:Name="btnestandar" 
+                    HorizontalOptions="CenterAndExpand" 
+                    Text="Alerta estándar" />
+            
+            <Button x:Name="btnsino" 
+                    HorizontalOptions="CenterAndExpand" 
+                    Text="Alerta SI/NO" />
+
+            <Button x:Name="btnopciones" 
+                    HorizontalOptions="CenterAndExpand" 
+                    Text="Alerta con Opciones" />
+
+            <Button x:Name="btndestroy" 
+                    HorizontalOptions="CenterAndExpand" 
+                    Text="Alerta con Destroy" />
+
+            <Label x:Name="txtrespuesta" 
+                   VerticalOptions="FillAndExpand" 
+                   HorizontalOptions="FillAndExpand" BackgroundColor="White" 
+                   FontSize="Large"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

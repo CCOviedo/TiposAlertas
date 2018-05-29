@@ -1,0 +1,9 @@
+C:\Xamarin\TiposAlertas\TiposAlertas\TiposAlertas\bin\Debug\netstandard2.0\TiposAlertas.deps.json
+C:\Xamarin\TiposAlertas\TiposAlertas\TiposAlertas\bin\Debug\netstandard2.0\TiposAlertas.dll
+C:\Xamarin\TiposAlertas\TiposAlertas\TiposAlertas\bin\Debug\netstandard2.0\TiposAlertas.pdb
+C:\Xamarin\TiposAlertas\TiposAlertas\TiposAlertas\obj\Debug\netstandard2.0\TiposAlertas.csprojAssemblyReference.cache
+C:\Xamarin\TiposAlertas\TiposAlertas\TiposAlertas\obj\Debug\netstandard2.0\TiposAlertas.csproj.CoreCompileInputs.cache
+C:\Xamarin\TiposAlertas\TiposAlertas\TiposAlertas\obj\Debug\netstandard2.0\TiposAlertas.AssemblyInfoInputs.cache
+C:\Xamarin\TiposAlertas\TiposAlertas\TiposAlertas\obj\Debug\netstandard2.0\TiposAlertas.AssemblyInfo.cs
+C:\Xamarin\TiposAlertas\TiposAlertas\TiposAlertas\obj\Debug\netstandard2.0\TiposAlertas.dll
+C:\Xamarin\TiposAlertas\TiposAlertas\TiposAlertas\obj\Debug\netstandard2.0\TiposAlertas.pdb
